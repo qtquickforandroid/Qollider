@@ -1,0 +1,35 @@
+import QmlProject 1.3
+
+Project {
+    mainFile: "Main.qml"
+
+    qt6Project: true
+    quickVersion: "6.8"
+
+    QmlFiles {
+        directory: "."
+        recursive: false
+    }
+
+    ImageFiles {
+        directory: "pingpong_assets"
+        recursive: true
+    }
+
+    ImageFiles {
+        directory: "skybox_assets"
+        recursive: true
+    }
+
+    ImageFiles {
+        directory: "arena_assets"
+        recursive: true
+    }
+
+    ImageFiles {
+        directory: "ui_assets"
+        recursive: true
+    }
+
+    importPaths: ["."]
+}

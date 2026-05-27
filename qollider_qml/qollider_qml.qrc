@@ -1,0 +1,28 @@
+<RCC>
+    <qresource>
+        <file>ArenaWalls.qml</file>
+        <file>GameOverScreen.qml</file>
+        <file>GlowBall.qml</file>
+        <file>Main.qml</file>
+        <file>MainMenuScreen.qml</file>
+        <file>Racket.qml</file>
+        <file>RacketBody.qml</file>
+        <file>StartScreen.qml</file>
+        <file>arena_assets/maps/Texturelabs_Paper_198L.jpg</file>
+        <file>pingpong_assets/maps/Cover.002_baseColor.png</file>
+        <file>pingpong_assets/maps/Cover.002_metallicRoughness.png</file>
+        <file>pingpong_assets/maps/Cover.002_normal.png</file>
+        <file>pingpong_assets/maps/Grip.002_baseColor.png</file>
+        <file>pingpong_assets/maps/Grip.002_metallicRoughness.png</file>
+        <file>pingpong_assets/maps/Grip.002_normal.png</file>
+        <file>pingpong_assets/maps/Handle.002_baseColor.png</file>
+        <file>pingpong_assets/maps/Handle.002_metallicRoughness.png</file>
+        <file>pingpong_assets/maps/Handle.002_normal.png</file>
+        <file>pingpong_assets/maps/Strap.002_baseColor.png</file>
+        <file>pingpong_assets/maps/Strap.002_metallicRoughness.png</file>
+        <file>pingpong_assets/maps/artengo-removebg-preview.png_baseColor.png</file>
+        <file>qollider_qml.qmlproject</file>
+        <file>skybox_assets/maps/Scene_-_Root_diffuse.jpeg</file>
+        <file>ui_assets/black-hand.svg</file>
+    </qresource>
+</RCC>
