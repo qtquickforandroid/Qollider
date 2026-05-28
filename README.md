@@ -1,6 +1,6 @@
 # Qollider
 
-An AR ping-pong game for Android that uses the front-facing camera and MediaPipe hand tracking to control a virtual paddle in a Qt Quick 3D physics environment.
+An camera controlled ping-pong game for Android that uses the front-facing camera and MediaPipe hand tracking to control a virtual paddle in a Qt Quick 3D physics environment.
 
 ---
 
